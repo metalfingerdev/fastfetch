@@ -3,7 +3,7 @@
   "logo": {
     // Marin Kitagawa, deployed next to this file
     "type": "kitty-icat",
-    "source": "~/.config/fastfetch/marin-kitagawa.gif",
+    "source": "~/.config/fastfetch/logo.gif",
     "width": 60,
     "height": 20,
     "padding": {
