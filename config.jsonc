@@ -7,8 +7,8 @@
     "height": 20,
     "padding": {
       "top": 1,
-      "left": 0,
-    },
+      "left": 0
+    }
   },
   "modules": [
     "title",
@@ -39,6 +39,6 @@
     "poweradapter",
     "locale",
     "break",
-    "colors",
-  ],
+    "colors"
+  ]
 }
